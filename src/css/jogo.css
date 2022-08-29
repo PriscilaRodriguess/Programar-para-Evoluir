@@ -53,3 +53,8 @@ main{
     grid-column-gap: 20px;
     grid-row-gap: 70px;
 }
+
+main img{
+    height: 200px;
+    width: 200px;
+}
